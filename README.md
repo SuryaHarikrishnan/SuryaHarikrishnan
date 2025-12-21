@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20YOUR_NAME&fontAlign=50&fontAlignY=35&desc=I%20build%20cool%20stuff%20and%20ship%20projects&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20Surya Harikrishnan&fontAlign=50&fontAlignY=35&desc=I%20build%20cool%20stuff%20and%20ship%20projects&descAlign=50&descAlignY=55" />
 </p>
 
 ## About me
