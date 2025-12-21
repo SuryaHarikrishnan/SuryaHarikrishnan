@@ -59,12 +59,12 @@ These repositories are actively being developed and documented.
 
 ## GitHub stats
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=surya-harikrishnan&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-harikrishnan&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SuryaHarikrishnan&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaHarikrishnan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## Contact
-- 📧 suryanarayanan.harikrishnan@gmail.com
+- 📧 Gmail :   suryanarayanan.harikrishnan@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/surya-harikrishnan-94399a322/
