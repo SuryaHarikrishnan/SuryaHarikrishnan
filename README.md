@@ -59,7 +59,6 @@ These repositories are actively being developed and documented.
 
 ## GitHub stats
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SuryaHarikrishnan&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaHarikrishnan&layout=compact&theme=tokyonight" />
 </p>
 
