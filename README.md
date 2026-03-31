@@ -57,12 +57,6 @@ These repositories are actively being developed and documented.
 
 ---
 
-## GitHub stats
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaHarikrishnan&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## Contact
 - 📧 Gmail :   suryanarayanan.harikrishnan@gmail.com
