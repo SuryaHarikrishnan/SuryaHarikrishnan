@@ -9,6 +9,9 @@ systems programming, machine learning, quantitative finance, and applied enginee
 I focus on building technically rigorous projects with strong mathematical foundations,
 clean implementations, and real world relevance.
 
+My work includes machine learning applications, data processing systems, and end-to-end
+project development, with an emphasis on performance, scalability, and correctness.
+
 - 🎓 B.S. Computer Science + Mathematics (May 2027)
 - 🔬 Interests: systems, ML, AI infrastructure, quantitative finance
 - 🧠 Strong background in probability, linear algebra, and algorithms
@@ -22,21 +25,33 @@ clean implementations, and real world relevance.
 </p>
 
 ---
+## Completed projects
+
+### 🔹Insurance Claim Processing Agent
+- Built an AI-driven system to automate insurance claim evaluation using a multi-step decision workflow
+- Processes claim inputs, performs validation checks, and routes decisions based on risk and completeness
+- Designed modular components for claim verification, risk assessment, and decision logic
+- Focused on structured data extraction and consistent decision-making
+- Tech: Python, LLMs, vector databases / retrieval, backend frameworks
+
+### 🔹Algorithmic Trading Strategy Engine
+- Developed an automated trading system implementing momentum and mean reversion strategies
+- Built a custom backtesting framework to evaluate strategy performance on historical data
+- Analyzed key metrics including Sharpe ratio, drawdowns, and return profiles
+- Designed modular components for strategy development, testing, and evaluation
+- Focused on systematic trading, performance analysis, and quantitative decision-making
+- Tech: Python
 
 ## Current projects (in progress)
 These repositories are actively being developed and documented.
 
-### 🔹 Options Pricing and Risk Management Dashboard
-- Black-Scholes, Monte Carlo simulation, binomial trees
-- Greeks based sensitivity analysis
-- Python, NumPy, matplotlib
-- Focus: financial modeling accuracy and risk interpretation
-
-### 🔹 Algorithmic Trading Strategy Engine
-- Momentum and mean reversion strategies
-- Custom backtesting framework
-- Sharpe ratio, drawdowns, performance metrics
-- Python based quantitative research pipeline
+### 🔹 Vegetable Image Classifier (In Progress)
+- Building an image classification model to identify and categorize vegetables from input images
+- Training and evaluating models on labeled datasets to improve classification accuracy
+- Implementing preprocessing techniques for image normalization and feature extraction
+- Designing a structured pipeline for data handling, training, and evaluation
+- Focused on model performance, accuracy, and generalization
+- Tech: Python, machine learning libraries (NumPy, OpenCV, TensorFlow/PyTorch)
 
 ### 🔹 Retrieval Augmented Generation (RAG) Chatbot
 - FAISS based vector search
@@ -44,16 +59,6 @@ These repositories are actively being developed and documented.
 - FastAPI backend with React frontend
 - Focus on scalable AI systems
 
-### 🔹 Real Time Object Detection Dashboard
-- YOLOv8 with OpenCV
-- Live webcam inference
-- Real time web visualization
-- Focus on performance optimization
-
-### 🔹 Secure Encrypted Chat Application
-- End to end encryption concepts
-- Key exchange and symmetric encryption
-- Networking and real time messaging foundations
 
 ---
 
