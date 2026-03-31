@@ -45,7 +45,7 @@ project development, with an emphasis on performance, scalability, and correctne
 ## Current projects (in progress)
 These repositories are actively being developed and documented.
 
-### 🔹 Vegetable Image Classifier (In Progress)
+### 🔹 Vegetable Image Classifier
 - Building an image classification model to identify and categorize vegetables from input images
 - Training and evaluating models on labeled datasets to improve classification accuracy
 - Implementing preprocessing techniques for image normalization and feature extraction
