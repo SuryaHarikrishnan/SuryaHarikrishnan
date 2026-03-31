@@ -13,9 +13,9 @@ My work includes machine learning applications, data processing systems, and end
 project development, with an emphasis on performance, scalability, and correctness.
 
 - 🎓 B.S. Computer Science + Mathematics (May 2027)
-- 🔬 Interests: systems, ML, AI infrastructure, quantitative finance
-- 🧠 Strong background in probability, linear algebra, and algorithms
-- 🛠 Currently building multiple end to end projects listed below
+- 💻 Interests: software engineering, data engineering, machine learning, distributed systems
+- 🧠 Strong background in data structures, algorithms, probability, and linear algebra
+- 🛠 Building end-to-end projects involving backend systems, data processing, and ML applications
 
 ---
 
