@@ -27,7 +27,7 @@ project development, with an emphasis on performance, scalability, and correctne
 ---
 ## Completed projects
 
-### 🔹Insurance Claim Processing Agent
+### 🔹Insurance Claim Processing Agent (ClaimIQ)
 - Built an AI-driven system to automate insurance claim evaluation using a multi-step decision workflow
 - Processes claim inputs, performs validation checks, and routes decisions based on risk and completeness
 - Designed modular components for claim verification, risk assessment, and decision logic
