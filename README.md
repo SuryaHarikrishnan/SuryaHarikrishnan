@@ -1,68 +1,89 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20Surya&fontAlign=50&fontAlignY=35&desc=CS%20%2B%20Math%20@%20Penn%20State%20|%20Systems,%20AI,%20Finance&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Surya%20Harikrishnan&fontAlign=50&fontAlignY=35&desc=CS%20%2B%20Math%20%40%20Penn%20State%20%7C%20Full-Stack%20AI%20Developer&descAlign=50&descAlignY=60" />
 </p>
 
-## About me
-I am a Computer Science and Mathematics undergraduate at Penn State with interests in
-systems programming, machine learning, quantitative finance, and applied engineering.
-
-I focus on building technically rigorous projects with strong mathematical foundations,
-clean implementations, and real world relevance.
-
-My work includes machine learning applications, data processing systems, and end-to-end
-project development, with an emphasis on performance, scalability, and correctness.
-
-- 🎓 B.S. Computer Science + Mathematics (May 2027)
-- 💻 Interests: software engineering, data engineering, machine learning, distributed systems
-- 🧠 Strong background in data structures, algorithms, probability, and linear algebra
-- 🛠 Building end-to-end projects involving backend systems, data processing, and ML applications
+<p align="center">
+  <a href="https://www.linkedin.com/in/surya-harikrishnan-94399a322/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suryanarayanan.harikrishnan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Penn%20State-002D62?style=flat&logo=data:image/png;base64,&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
-## Tech stack
+## About
+
+I'm a junior at Penn State studying Computer Science and Mathematics, focused on building AI-powered backend systems and data pipelines that solve real problems.
+
+My work sits at the intersection of data engineering, machine learning, and applied AI. I build end-to-end systems with an emphasis on clean architecture, production readiness, and measurable impact.
+
+Currently seeking **SWE and AI Engineering co-op opportunities for Fall 2026**.
+
+---
+
+## Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,sql,git,linux,docker,react,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,fastapi,docker,postgres,git,linux,aws,vite" />
 </p>
 
----
-## Completed projects
-
-### 🔹Insurance Claim Processing Agent (ClaimIQ)
-- Built an AI-driven system to automate insurance claim evaluation using a multi-step decision workflow
-- Processes claim inputs, performs validation checks, and routes decisions based on risk and completeness
-- Designed modular components for claim verification, risk assessment, and decision logic
-- Focused on structured data extraction and consistent decision-making
-- Tech: Python, LLMs, vector databases / retrieval, backend frameworks
-
-### 🔹Algorithmic Trading Strategy Engine
-- Developed an automated trading system implementing momentum and mean reversion strategies
-- Built a custom backtesting framework to evaluate strategy performance on historical data
-- Analyzed key metrics including Sharpe ratio, drawdowns, and return profiles
-- Designed modular components for strategy development, testing, and evaluation
-- Focused on systematic trading, performance analysis, and quantitative decision-making
-- Tech: Python
-
-## Current projects (in progress)
-These repositories are actively being developed and documented.
-
-### 🔹 Vegetable Image Classifier
-- Building an image classification model to identify and categorize vegetables from input images
-- Training and evaluating models on labeled datasets to improve classification accuracy
-- Implementing preprocessing techniques for image normalization and feature extraction
-- Designing a structured pipeline for data handling, training, and evaluation
-- Focused on model performance, accuracy, and generalization
-- Tech: Python, machine learning libraries (NumPy, OpenCV, TensorFlow/PyTorch)
-
-### 🔹 Retrieval Augmented Generation (RAG) Chatbot
-- FAISS based vector search
-- LLM powered question answering
-- FastAPI backend with React frontend
-- Focus on scalable AI systems
-
+**Core:** Python, JavaScript, SQL, HTML/CSS  
+**AI/ML:** LLM integration, prompt engineering, NLP, scikit-learn, NumPy, pandas, anomaly detection  
+**Backend:** FastAPI, REST APIs, Docker, Supabase, PostgreSQL  
+**Frontend:** React, Vite  
+**Cloud:** AWS (AI Practitioner), Vercel, CI/CD  
 
 ---
 
+## Projects
 
-## Contact
-- 📧 Gmail :   suryanarayanan.harikrishnan@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/surya-harikrishnan-94399a322/
+### ClaimIQ — AI Insurance Claim Processing Pipeline
+> End-to-end AI pipeline for automated insurance claim decisioning
+
+- Extracts and validates fields from unstructured insurance PDFs using NLP-based parsing and rule-based fraud detection heuristics
+- Classifies claims as ACCEPT, FLAG, or REJECT using modular ETL architecture with decoupled parsing, validation, and orchestration layers
+- FastAPI backend with REST endpoints for real-time ingestion and retrieval; React dashboard for filtering and reviewing decisions
+- Containerized with Docker for cloud-native deployment; validated against 200+ synthetic documents
+
+`Python` `FastAPI` `Docker` `React` `NLP` `ETL`
+
+---
+
+### AI Security Log Analyzer
+> Real-time threat detection from large-scale log data
+
+- Applies statistical anomaly detection to classify abnormal access patterns and activity spikes as security threats in real time
+- Modular ingestion, analysis, and detection layers built for production-scale security monitoring workflows
+- FastAPI backend with structured alert output and configurable detection thresholds
+
+`Python` `FastAPI` `scikit-learn` `anomaly detection`
+
+---
+
+### Algorithmic Trading Strategy Engine
+> Systematic backtesting framework for quantitative strategies
+
+- Implements momentum and mean reversion strategies with a custom backtesting engine on historical data
+- Evaluates performance across Sharpe ratio, max drawdown, and return profiles
+- Modular architecture separating strategy logic, execution simulation, and performance reporting
+
+`Python` `pandas` `NumPy` `quantitative finance`
+
+---
+
+## Education
+
+**The Pennsylvania State University** — B.S. Computer Science + B.S. Mathematics (May 2027)  
+GPA: 3.5 | AWS Certified AI Practitioner (2026)
+
+Coursework: Machine Learning, Database Management, Systems Programming, Data Structures & Algorithms, Probability, Linear Algebra, Discrete Mathematics
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surya-harikrishnan&show_icons=true&theme=default&hide_border=true" />
+</p>
