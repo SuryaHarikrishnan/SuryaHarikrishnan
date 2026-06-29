@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Penn%20State-002D62?style=flat&logo=data:image/png;base64,&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
@@ -85,5 +85,5 @@ Coursework: Machine Learning, Database Management, Systems Programming, Data Str
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surya-harikrishnan&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuryaHarikrishnan&show_icons=true&theme=default&hide_border=true" />
 </p>
