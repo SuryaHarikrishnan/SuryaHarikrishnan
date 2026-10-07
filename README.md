@@ -1,18 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Surya%20Harikrishnan&fontAlign=50&fontAlignY=35&desc=CS%20%2B%20Math%20%40%20Penn%20State%20%7C%20Founder%20of%20SendIt%20%7C%20Data%20%26%20AI&descAlign=50&descAlignY=60" />
+  <img src="header.svg" alt="Surya Harikrishnan" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surya-harikrishnan-94399a322/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:suryanarayanan.harikrishnan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://justsend.fit">
-    <img src="https://img.shields.io/badge/SendIt-justsend.fit-3BA7E6?style=flat" />
-  </a>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <a href="https://www.linkedin.com/in/surya-harikrishnan-94399a322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:suryanarayanan.harikrishnan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://justsend.fit"><img src="https://img.shields.io/badge/SendIt-3BA7E6?style=flat" alt="SendIt" /></a>
 </p>
 
 ---
@@ -97,7 +90,7 @@ Looking for **Summer 2027 software, data, and AI internships**.
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,vite,fastapi,postgres,supabase,docker,aws,vercel,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,vite,fastapi,postgres,supabase,docker,vercel,githubactions,git" />
 </p>
 
 **Languages:** Python, SQL, JavaScript, HTML/CSS  
