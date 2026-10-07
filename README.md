@@ -127,5 +127,6 @@ Coursework: Machine Learning, Database Management, Data Structures & Algorithms,
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaHarikrishnan&layout=compact&hide_border=true&theme=default" />
+  <a href="https://github.com/SuryaHarikrishnan#gh-dark-mode-only"><img src="https://gh-readme-profile.vercel.app/api?username=SuryaHarikrishnan&theme=dark&hide=forks#gh-dark-mode-only" alt="GitHub Stats" /></a>
+  <a href="https://github.com/SuryaHarikrishnan#gh-light-mode-only"><img src="https://gh-readme-profile.vercel.app/api?username=SuryaHarikrishnan&theme=default&hide=forks#gh-light-mode-only" alt="GitHub Stats" /></a>
 </p>
