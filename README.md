@@ -98,7 +98,7 @@ Looking for **Summer 2027 software, data, and AI internships**.
 **AI:** LLM integration (Gemini), prompt engineering, model evaluation  
 **Backend & Data:** FastAPI, REST APIs, PostgreSQL, Supabase, ETL pipelines, schema design  
 **Frontend:** React, Vite, PWAs  
-**Cloud & Tools:** AWS (Certified AI Practitioner), Vercel, Docker, GitHub Actions, Playwright, PostHog
+**Cloud & Tools:** Vercel, Docker, GitHub Actions, Playwright, PostHog
 
 ---
 
@@ -112,8 +112,7 @@ Looking for **Summer 2027 software, data, and AI internships**.
 
 ## Education
 
-**The Pennsylvania State University** — B.S. Computer Science + B.S. Mathematics (2027)  
-AWS Certified AI Practitioner (2026)
+**The Pennsylvania State University** — B.S. Computer Science + B.S. Mathematics (2027)
 
 Coursework: Machine Learning, Database Management, Data Structures & Algorithms, Systems Programming, Probability, Statistics, Linear Algebra, Discrete Mathematics
 
