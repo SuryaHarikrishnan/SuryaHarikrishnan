@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Surya%20Harikrishnan&fontAlign=50&fontAlignY=35&desc=CS%20%2B%20Math%20%40%20Penn%20State%20%7C%20Full-Stack%20AI%20Developer&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Surya%20Harikrishnan&fontAlign=50&fontAlignY=35&desc=CS%20%2B%20Math%20%40%20Penn%20State%20%7C%20Founder%20of%20SendIt%20%7C%20Data%20%26%20AI&descAlign=50&descAlignY=60" />
 </p>
 
 <p align="center">
@@ -9,6 +9,9 @@
   <a href="mailto:suryanarayanan.harikrishnan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://justsend.fit">
+    <img src="https://img.shields.io/badge/SendIt-justsend.fit-3BA7E6?style=flat" />
+  </a>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
 </p>
 
@@ -16,70 +19,122 @@
 
 ## About
 
-I'm a junior at Penn State studying Computer Science and Mathematics, focused on building AI-powered backend systems and data pipelines that solve real problems.
+I'm studying Computer Science and Mathematics at Penn State, and I like building things. When something I use could be better, I usually end up making my own version.
 
-My work sits at the intersection of data engineering, machine learning, and applied AI. I build end-to-end systems with an emphasis on clean architecture, production readiness, and measurable impact.
+My work sits between data, applied AI, and full-stack products: pipelines that turn messy inputs into decisions, analytics people can actually read, and apps that real people sign in to. Outside of code I work in HR at Target, where my job is turning store and staffing data into decisions for people who don't live in spreadsheets, and I help students through Calculus as a Mathematics Learning Assistant.
 
-Currently seeking **SWE and AI Engineering co-op opportunities for Fall 2026**.
+Looking for **Summer 2027 software, data, and AI internships**.
+
+---
+
+## Projects
+
+| | |
+|---|---|
+| **[SendIt](https://justsend.fit)** · live app | Multi-sport fitness tracker for climbing, lifting, and food |
+| **[ClaimIQ](https://github.com/SuryaHarikrishnan/Insurance-Claim-Agent)** | AI pipeline that reads insurance claim PDFs and decides ACCEPT / FLAG / REJECT |
+| **[2027 Internship Tracker](https://github.com/SuryaHarikrishnan/2027-internship-tracker)** | Auto-refreshing internship listings plus a personal application tracker |
+| **AI Security Log Analyzer** | Statistical anomaly detection over large-scale log data |
+| **[Algorithmic Trading Engine](https://github.com/SuryaHarikrishnan/Algorithmic-Trading-Strategy-Engine)** | Backtesting framework for SMA crossover strategies |
+| **[Desktop HUD Kit](https://github.com/SuryaHarikrishnan/desktop-hud-kit)** | A process and starter kit for building floating desktop dashboards |
+| **[Vegetable Image Classifier](https://github.com/SuryaHarikrishnan/Vegetable-Image-Classifier)** | PyTorch image classification pipeline |
+
+---
+
+### SendIt — multi-sport fitness tracker
+> A cheaper, simpler alternative to pricey fitness apps. Live at **[justsend.fit](https://justsend.fit)**, installable on your phone.
+
+- Per-sport analytics from raw logs: climbing grade progression and hardest sends, lifting volume and PRs with a muscle map across 95 exercises, daily calorie and macro budgets
+- PostgreSQL on Supabase with Google sign-in and row-level security on every table
+- Food search across Open Food Facts barcodes, USDA FoodData Central, and FatSecret; Gemini-powered meal-photo calorie estimates with per-user daily limits
+- Playwright harness of 40 simulated user personas that found 12 real bugs (including data-loss ones), all fixed; PostHog analytics and GitHub Actions CI
+
+`React` `Vite` `Supabase` `PostgreSQL` `Vercel` `Gemini` `Playwright`
+
+---
+
+### ClaimIQ — AI insurance claim processing
+> End-to-end pipeline for automated claim decisioning
+
+- Extracts and validates claimant, policy, amount, date, and claim type fields from unstructured claim PDFs (Cigna and HCFA-1500 formats)
+- Rule-based fraud heuristics return ACCEPT, FLAG, or REJECT with reasoning
+- Modular ETL design with decoupled parsing, validation, and orchestration layers; FastAPI backend and a React review dashboard
+- Validated against 200+ generated test claims; containerized with Docker
+
+`Python` `FastAPI` `React` `Docker` `ETL`
+
+---
+
+### 2027 Internship Tracker
+> Most internship repos stop at the list. This one also tracks where you applied.
+
+- Merges and deduplicates several community internship lists into 6 categories (SWE, AI/ML, Quant, Hardware, PM, other)
+- GitHub Actions refresh the listings several times a day with no setup
+- Daily Top 20 picks ranked by freshness and company signal, and a CLI tracker with a days-since-applied column
+
+`Python` `GitHub Actions` `automation`
+
+---
+
+### AI Security Log Analyzer
+> Threat detection from large-scale log data
+
+- Statistical anomaly detection flags abnormal access patterns and activity spikes
+- FastAPI backend with separate ingestion, analysis, and detection layers, built to simulate production-scale monitoring
+
+`Python` `FastAPI` `anomaly detection`
+
+---
+
+### Algorithmic Trading Strategy Engine
+> Backtesting for moving-average crossover strategies
+
+- Pulls historical prices, generates fast/slow SMA crossover signals, and simulates trades
+- Reports CAGR, Sharpe ratio, max drawdown, turnover, and trade count, with equity, drawdown, and trade-marker charts against buy and hold
+
+`Python` `pandas` `NumPy` `matplotlib`
+
+---
+
+### Desktop HUD Kit
+> A floating Windows desktop widget that expands into a multi-tab dashboard
+
+- Documents the full process: design in HTML/CSS first, settle the theme as tokens, then port to Rainmeter
+- Ships a worked example theme (WARDEN, a monochrome CRT terminal) and a bare template for your own look
+
+`Rainmeter` `Python` `UI design`
 
 ---
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,fastapi,docker,postgres,git,linux,aws,vite" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,vite,fastapi,postgres,supabase,docker,aws,vercel,githubactions,git" />
 </p>
 
-**Core:** Python, JavaScript, SQL, HTML/CSS  
-**AI/ML:** LLM integration, prompt engineering, NLP, scikit-learn, NumPy, pandas, anomaly detection  
-**Backend:** FastAPI, REST APIs, Docker, Supabase, PostgreSQL  
-**Frontend:** React, Vite  
-**Cloud:** AWS (AI Practitioner), Vercel, CI/CD  
+**Languages:** Python, SQL, JavaScript, HTML/CSS  
+**Data & ML:** pandas, NumPy, SciPy, scikit-learn, PyTorch, regression and hypothesis testing, anomaly detection, NLP  
+**AI:** LLM integration (Gemini), prompt engineering, model evaluation  
+**Backend & Data:** FastAPI, REST APIs, PostgreSQL, Supabase, ETL pipelines, schema design  
+**Frontend:** React, Vite, PWAs  
+**Cloud & Tools:** AWS (Certified AI Practitioner), Vercel, Docker, GitHub Actions, Playwright, PostHog
 
 ---
 
-## Projects
+## Beyond code
 
-### ClaimIQ — AI Insurance Claim Processing Pipeline
-> End-to-end AI pipeline for automated insurance claim decisioning
-
-- Extracts and validates fields from unstructured insurance PDFs using NLP-based parsing and rule-based fraud detection heuristics
-- Classifies claims as ACCEPT, FLAG, or REJECT using modular ETL architecture with decoupled parsing, validation, and orchestration layers
-- FastAPI backend with REST endpoints for real-time ingestion and retrieval; React dashboard for filtering and reviewing decisions
-- Containerized with Docker for cloud-native deployment; validated against 200+ synthetic documents
-
-`Python` `FastAPI` `Docker` `React` `NLP` `ETL`
-
----
-
-### AI Security Log Analyzer
-> Real-time threat detection from large-scale log data
-
-- Applies statistical anomaly detection to classify abnormal access patterns and activity spikes as security threats in real time
-- Modular ingestion, analysis, and detection layers built for production-scale security monitoring workflows
-- FastAPI backend with structured alert output and configurable detection thresholds
-
-`Python` `FastAPI` `scikit-learn` `anomaly detection`
-
----
-
-### Algorithmic Trading Strategy Engine
-> Systematic backtesting framework for quantitative strategies
-
-- Implements momentum and mean reversion strategies with a custom backtesting engine on historical data
-- Evaluates performance across Sharpe ratio, max drawdown, and return profiles
-- Modular architecture separating strategy logic, execution simulation, and performance reporting
-
-`Python` `pandas` `NumPy` `quantitative finance`
+- **Target** · Human Resources Expert: analyze team, store trend, and inventory data to guide hiring; staffed 40+ new hires and run their onboarding
+- **Penn State** · Mathematics Learning Assistant: weekly sessions and office hours for Calculus students
+- **Engineering Club** · President (2024–2025): led development of 15 robotics and AI prototypes
 
 ---
 
 ## Education
 
-**The Pennsylvania State University** — B.S. Computer Science + B.S. Mathematics (May 2027)  
-GPA: 3.5 | AWS Certified AI Practitioner (2026)
+**The Pennsylvania State University** — B.S. Computer Science + B.S. Mathematics (2027)  
+AWS Certified AI Practitioner (2026)
 
-Coursework: Machine Learning, Database Management, Systems Programming, Data Structures & Algorithms, Probability, Linear Algebra, Discrete Mathematics
+Coursework: Machine Learning, Database Management, Data Structures & Algorithms, Systems Programming, Probability, Statistics, Linear Algebra, Discrete Mathematics
 
 ---
 
