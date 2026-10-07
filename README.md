@@ -31,17 +31,16 @@ Looking for **Summer 2027 software, data, and AI internships**.
 
 | | |
 |---|---|
-| **[SendIt](https://justsend.fit)** · live app | Multi-sport fitness tracker for climbing, lifting, and food |
+| **[SendIt](https://github.com/SuryaHarikrishnan/send-ai)** · [live app](https://justsend.fit) | Multi-sport fitness tracker for climbing, lifting, and food |
 | **[ClaimIQ](https://github.com/SuryaHarikrishnan/Insurance-Claim-Agent)** | AI pipeline that reads insurance claim PDFs and decides ACCEPT / FLAG / REJECT |
 | **[2027 Internship Tracker](https://github.com/SuryaHarikrishnan/2027-internship-tracker)** | Auto-refreshing internship listings plus a personal application tracker |
-| **AI Security Log Analyzer** | Statistical anomaly detection over large-scale log data |
 | **[Algorithmic Trading Engine](https://github.com/SuryaHarikrishnan/Algorithmic-Trading-Strategy-Engine)** | Backtesting framework for SMA crossover strategies |
 | **[Desktop HUD Kit](https://github.com/SuryaHarikrishnan/desktop-hud-kit)** | A process and starter kit for building floating desktop dashboards |
 | **[Vegetable Image Classifier](https://github.com/SuryaHarikrishnan/Vegetable-Image-Classifier)** | PyTorch image classification pipeline |
 
 ---
 
-### SendIt — multi-sport fitness tracker
+### [SendIt](https://github.com/SuryaHarikrishnan/send-ai) — multi-sport fitness tracker
 > A cheaper, simpler alternative to pricey fitness apps. Live at **[justsend.fit](https://justsend.fit)**, installable on your phone.
 
 - Per-sport analytics from raw logs: climbing grade progression and hardest sends, lifting volume and PRs with a muscle map across 95 exercises, daily calorie and macro budgets
@@ -73,16 +72,6 @@ Looking for **Summer 2027 software, data, and AI internships**.
 - Daily Top 20 picks ranked by freshness and company signal, and a CLI tracker with a days-since-applied column
 
 `Python` `GitHub Actions` `automation`
-
----
-
-### AI Security Log Analyzer
-> Threat detection from large-scale log data
-
-- Statistical anomaly detection flags abnormal access patterns and activity spikes
-- FastAPI backend with separate ingestion, analysis, and detection layers, built to simulate production-scale monitoring
-
-`Python` `FastAPI` `anomaly detection`
 
 ---
 
