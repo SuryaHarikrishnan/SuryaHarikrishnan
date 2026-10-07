@@ -46,6 +46,7 @@ Looking for **Summer 2027 software, data, and AI internships**.
 - Per-sport analytics from raw logs: climbing grade progression and hardest sends, lifting volume and PRs with a muscle map across 95 exercises, daily calorie and macro budgets
 - PostgreSQL on Supabase with Google sign-in and row-level security on every table
 - Food search across Open Food Facts barcodes, USDA FoodData Central, and FatSecret; Gemini-powered meal-photo calorie estimates with per-user daily limits
+- Playwright harness of 40 simulated user personas that found 12 real bugs (including data-loss ones), all fixed; PostHog analytics and GitHub Actions CI
 
 `React` `Vite` `Supabase` `PostgreSQL` `Vercel` `Gemini` `Playwright`
 
@@ -127,5 +128,6 @@ Coursework: Machine Learning, Database Management, Data Structures & Algorithms,
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaHarikrishnan&layout=compact&hide_border=true&theme=default" />
+  <a href="https://github.com/SuryaHarikrishnan#gh-dark-mode-only"><img src="https://gh-readme-profile.vercel.app/api?username=SuryaHarikrishnan&theme=dark&hide=forks#gh-dark-mode-only" alt="GitHub Stats" /></a>
+  <a href="https://github.com/SuryaHarikrishnan#gh-light-mode-only"><img src="https://gh-readme-profile.vercel.app/api?username=SuryaHarikrishnan&theme=default&hide=forks#gh-light-mode-only" alt="GitHub Stats" /></a>
 </p>
